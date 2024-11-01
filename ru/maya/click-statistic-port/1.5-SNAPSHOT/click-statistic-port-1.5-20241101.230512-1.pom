@@ -6,7 +6,7 @@
 
     <groupId>ru.maya</groupId>
     <artifactId>click-statistic-port</artifactId>
-    <version>1.4-SNAPSHOT</version>
+    <version>1.5-SNAPSHOT</version>
 
     <distributionManagement>
         <repository>
@@ -36,6 +36,13 @@
             <artifactId>spring-boot-starter-amqp</artifactId>
             <version>2.5.7</version>
         </dependency>
+        <!-- https://mvnrepository.com/artifact/com.velopayments/java-spring-resttemplate -->
+        <dependency>
+            <groupId>com.velopayments</groupId>
+            <artifactId>java-spring-resttemplate</artifactId>
+            <version>2.32.2</version>
+        </dependency>
+
         <!-- https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-databind -->
         <dependency>
             <groupId>com.fasterxml.jackson.core</groupId>

@@ -3,23 +3,23 @@
   <groupId>ru.maya</groupId>
   <artifactId>click-statistic-port</artifactId>
   <versioning>
-    <lastUpdated>20240904161534</lastUpdated>
+    <lastUpdated>20241101230512</lastUpdated>
     <snapshot>
-      <timestamp>20240904.161534</timestamp>
+      <timestamp>20241101.230512</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>1.4-20240904.161534-1</value>
-        <updated>20240904161534</updated>
+        <value>1.5-20241101.230512-1</value>
+        <updated>20241101230512</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.4-20240904.161534-1</value>
-        <updated>20240904161534</updated>
+        <value>1.5-20241101.230512-1</value>
+        <updated>20241101230512</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
-  <version>1.4-SNAPSHOT</version>
+  <version>1.5-SNAPSHOT</version>
 </metadata>
